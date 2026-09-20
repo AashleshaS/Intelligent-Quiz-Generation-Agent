@@ -117,7 +117,6 @@ intelligent-quiz-project/
 │   ├── requirements.txt
 │   ├── topic_agent.py
 │   ├── .env.example
-│   └── quiz.db                 # Created locally at runtime
 └── frontend/
     ├── package.json
     ├── package-lock.json
